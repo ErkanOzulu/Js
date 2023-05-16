@@ -30,5 +30,9 @@ const number=35;
 
 console.log(number);
 
+let c=null;
+
+console.log(typeof c);
+console.log(c)
 
 

@@ -29,6 +29,9 @@ add(10,20,30,200); // ignores after the second parameter
 
   console.log(divide(30,5));
 
+  let anyFunction=divide;
+  console.log(anyFunction(30,5));
+
  
 // pass a function as an argument to other functions
 
