@@ -29,3 +29,6 @@ waitingForSomeServerToAct(functionThatNeedsBackEndData);
 /**
  * There are some JS commands like alert, prompt : these will work only in browsers with Live Server
  */
+
+let username=prompt("Enter your username");
+console.log(username);
