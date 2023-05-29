@@ -17,7 +17,7 @@ console.log(typeof a);
 
 let x=5, y='Oscar';
 console.log(x+y) //concatination : 5Oscar
-console.log(x*y); //Nan
+console.log(x*y); //NaN
 
 // Naming Rules : same with Java naming rules
 
